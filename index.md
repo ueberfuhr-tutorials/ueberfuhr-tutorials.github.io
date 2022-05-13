@@ -1,40 +1,31 @@
 ---
 title: Ralf Ueberfuhr - Tutorials
 ---
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/ueberfuhr-tutorials/ueberfuhr-tutorials.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+On this page, you'll find tutorials and samples from me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tutorials on GitHub
+These samples provide sample code and instructions esp. to learn.
 
-### Markdown
+- [Angular: Build Once, Deploy Anywhere](https://github.com/ueberfuhr-tutorials/ng-buildonce-deployanywhere) (May '22) - a concrete suggestion for environment configuration _after_ build time 
+- [NPM: First steps](https://github.com/ueberfuhr-tutorials/npm-first-steps) (Jan '22) - create a first NPM project, install dependencies, use one project as dependency within another
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Articles on Baeldung
 
-```markdown
-Syntax highlighted code block
+- [Configure and Use Multiple DataSources in Spring Boot](https://www.baeldung.com/spring-boot-configure-multiple-datasources) (Mar '22)
+- [Keycloak Integration - OAuth2 and OpenID with Swagger UI](https://www.baeldung.com/keycloak-oauth2-openid-swagger) (Feb '22)
+- [Using a Custom Class as a Key in a Java HashMap](https://www.baeldung.com/java-custom-class-map-key) (Nov '21)
+- [Quarkus Bean Discovery With Jandex Indexing](https://www.baeldung.com/quarkus-bean-discovery-index) (Oct '21)
+- [Understanding Maven's "relativePath" Tag for a Parent POM](https://www.baeldung.com/maven-relativepath) (Oct '21)
 
-# Header 1
-## Header 2
-### Header 3
+### Samples on GitHub
+These samples only contain code samples without any instructions, just some short explanations.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ueberfuhr-tutorials/ueberfuhr-tutorials.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Java Messaging](https://github.com/ueberfuhr-trainings/messaging-samples) (Feb '22) - Samples to use messaging with Active MQ and Kafka using Java/Jakarta EE and Spring Boot. Includes an explanation about messaging itself in German.
+- [Angular: Material Samples](https://github.com/ueberfuhr-trainings/ng-material-samples) (Feb '22) - A sample Angular application that uses Angular Material.
+- [Java EE vs. Spring](https://github.com/ueberfuhr-trainings/javaee-vs-spring) (Jan '22) - A simple todo web app that is implemented
+  - with Java EE
+  - with Spring Boot
+  - with Java EE inkl. Spring
+- [Java XML APIs](https://github.com/ueberfuhr-trainings/java-xml-apis) (Dec '21) - An overview about XML APIs with Java. 
