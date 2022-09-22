@@ -13,6 +13,7 @@ These samples provide sample code and instructions esp. to learn.
 
 ### Articles on Baeldung
 
+- [Spring Boot 3 and Spring Framework 6 - What's New](https://www.baeldung.com/spring-boot-3-spring-6-new)
 - [Active MQ vs. Kafka](https://www.baeldung.com/apache-activemq-vs-kafka)
 - [Configure and Use Multiple DataSources in Spring Boot](https://www.baeldung.com/spring-boot-configure-multiple-datasources) (Mar '22)
 - [Keycloak Integration - OAuth2 and OpenID with Swagger UI](https://www.baeldung.com/keycloak-oauth2-openid-swagger) (Feb '22)
