@@ -10,6 +10,7 @@ These samples provide sample code and instructions esp. to learn.
 
 - [Angular: Build Once, Deploy Anywhere](https://github.com/ueberfuhr-tutorials/ng-buildonce-deployanywhere) (May '22) - a concrete suggestion for environment configuration _after_ build time 
 - [NPM: First steps](https://github.com/ueberfuhr-tutorials/npm-first-steps) (Jan '22) - create a first NPM project, install dependencies, use one project as dependency within another
+- [Java: Basic Samples](https://github.com/ueberfuhr-tutorials/java-basics)
 
 ### Articles on Baeldung
 
