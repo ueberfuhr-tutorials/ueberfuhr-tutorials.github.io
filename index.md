@@ -15,6 +15,7 @@ These samples provide sample code and instructions esp. to learn.
 ### Articles on Baeldung
 You can find these articles written by [myself at Baeldung](https://www.baeldung.com/author/ralfueberfuhr):
 
+- [Pitfalls on Testing with Spring Boot](https://www.baeldung.com/spring-boot-testing-pitfalls)
 - [Observability with Spring Boot 3](https://www.baeldung.com/spring-boot-3-observability)
 - [Native Images with Spring Boot and GraalVM](https://www.baeldung.com/spring-native-intro)
 - [Spring Boot 3 and Spring Framework 6 - What's New](https://www.baeldung.com/spring-boot-3-spring-6-new)
