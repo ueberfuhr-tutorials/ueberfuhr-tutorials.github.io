@@ -15,6 +15,7 @@ These samples provide sample code and instructions esp. to learn.
 ### Articles on Baeldung
 You can find these articles written by [myself at Baeldung](https://www.baeldung.com/author/ralfueberfuhr):
 
+- [bootstrap-server in Kafka Configuration](https://www.baeldung.com/java-kafka-bootstrap-server) (Aug '23)
 - [Spring Boot Actuator Without Spring Boot](https://www.baeldung.com/spring-boot-actuator-without-spring-boot) (May '23)
 - [Pitfalls on Testing with Spring Boot](https://www.baeldung.com/spring-boot-testing-pitfalls) (Mar '23)
 - [Observability with Spring Boot 3](https://www.baeldung.com/spring-boot-3-observability) (Jan' 23)
