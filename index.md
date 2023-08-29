@@ -33,8 +33,9 @@ These samples only contain code samples without any instructions, just some shor
 
 - [Java Messaging](https://github.com/ueberfuhr-trainings/messaging-samples) (Feb '22) - Samples to use messaging with Active MQ and Kafka using Java/Jakarta EE and Spring Boot. Includes an explanation about messaging itself in German.
 - [Angular: Material Samples](https://github.com/ueberfuhr-trainings/ng-material-samples) (Feb '22) - A sample Angular application that uses Angular Material.
-- [Java EE vs. Spring](https://github.com/ueberfuhr-trainings/javaee-vs-spring) (Jan '22) - A simple todo web app that is implemented
+- [Java EE vs. Spring vs. Quarkus](https://github.com/ueberfuhr-trainings/javaee-vs-spring) (Jan '22) - A simple todo web app that is implemented
   - with Java EE
   - with Spring Boot
   - with Java EE inkl. Spring
+  - with Quarkus
 - [Java XML APIs](https://github.com/ueberfuhr-trainings/java-xml-apis) (Dec '21) - An overview about XML APIs with Java. 
