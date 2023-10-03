@@ -13,8 +13,9 @@ These samples provide sample code and instructions esp. to learn.
 - [Java: Basic Samples](https://github.com/ueberfuhr-tutorials/java-basics)
 
 ### Articles on Baeldung
-You can find these articles written by [myself at Baeldung](https://www.baeldung.com/author/ralfueberfuhr):
+You can find these articles written by myself [at Baeldung](https://www.baeldung.com/author/ralfueberfuhr):
 
+- [Introduction to Apache Kafka](https://www.baeldung.com/apache-kafka) (Oct '23)
 - [bootstrap-server in Kafka Configuration](https://www.baeldung.com/java-kafka-bootstrap-server) (Aug '23)
 - [Spring Boot Actuator Without Spring Boot](https://www.baeldung.com/spring-boot-actuator-without-spring-boot) (May '23)
 - [Pitfalls on Testing with Spring Boot](https://www.baeldung.com/spring-boot-testing-pitfalls) (Mar '23)
