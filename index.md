@@ -15,6 +15,7 @@ These samples provide sample code and instructions esp. to learn.
 ### Articles on Baeldung
 You can find these articles written by myself [at Baeldung](https://www.baeldung.com/author/ralfueberfuhr):
 
+- [Introduction to gRPC with Spring Boot](https://www.baeldung.com/spring-boot-grpc) (Jan '24)
 - [Introduction to Apache Kafka](https://www.baeldung.com/apache-kafka) (Oct '23)
 - [bootstrap-server in Kafka Configuration](https://www.baeldung.com/java-kafka-bootstrap-server) (Aug '23)
 - [Spring Boot Actuator Without Spring Boot](https://www.baeldung.com/spring-boot-actuator-without-spring-boot) (May '23)
