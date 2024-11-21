@@ -15,7 +15,7 @@ These samples provide sample code and instructions esp. to learn.
 ### Articles on Baeldung
 You can find these articles written by myself [at Baeldung](https://www.baeldung.com/author/ralfueberfuhr):
 
-- [Debugging Quarkus Applications](https://www.baeldung.com/quarkus-debug-apps)
+- [Debugging Quarkus Applications](https://www.baeldung.com/quarkus-debug-apps) (Nov '24)
 - [Testing Quarkus With Citrus](https://www.baeldung.com/quarkus-citrus-test) (Jul '24)
 - [Introduction to gRPC with Spring Boot](https://www.baeldung.com/spring-boot-grpc) (Jan '24)
 - [Introduction to Apache Kafka](https://www.baeldung.com/apache-kafka) (Oct '23)
