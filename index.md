@@ -15,6 +15,7 @@ These samples provide sample code and instructions esp. to learn.
 ### Articles on Baeldung
 You can find these articles written by myself [at Baeldung](https://www.baeldung.com/author/ralfueberfuhr):
 
+- [Programmatic Bean Registration Mechanism With BeanRegistrar in Spring](https://www.baeldung.com/spring-beanregistrar-registration) (Aug '25)
 - [Business Process Automation with Kogito](https://www.baeldung.com/java-kogito) (May '25)
 - [Debugging Quarkus Applications](https://www.baeldung.com/quarkus-debug-apps) (Nov '24)
 - [Testing Quarkus With Citrus](https://www.baeldung.com/quarkus-citrus-test) (Jul '24)
